@@ -1,6 +1,7 @@
 ---
 title: C programming
 date: 2021-08-06T13:35:55+05:30
+shortDescription: Need tp join
 category: language
 image: images/C.jpg
 tags:
